@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Laura Meehan",
+	"description": "Going through FCC curriculum and working towards learning MongoDB",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
