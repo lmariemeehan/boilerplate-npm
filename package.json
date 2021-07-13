@@ -5,7 +5,7 @@
 	"keywords": ["freecodecamp", "is", "refreshing", "me", "on", "package.json"],
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "~2.10.2"
+		"moment": "^2.10.2"
 	},
 	"license": "MIT",
 	"version": "1.5.0",
